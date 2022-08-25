@@ -4,7 +4,7 @@
 
 this is my jenkins redhat server and tomcat server
 
-Deploy war/ear to a container is completed
+Now Deploy war/ear to a container is completed 
 
 </html>
 </h1>
