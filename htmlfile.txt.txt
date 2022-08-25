@@ -6,5 +6,7 @@ this is my jenkins redhat server and tomcat server
 
 Now Deploy war/ear to a container is completed 
 
-</html>
+
 </h1>
+</html>
+
